@@ -1,0 +1,15 @@
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts.css);
+
+@import url(../blocks/page/page.css);
+@import url(../blocks/main/main.css);
+@import url(../blocks/main-screen/main-screen.css);
+@import url(../blocks/advantages/advantages.css);
+@import url(../blocks/popula-destinations/popula-destinations.css);
+@import url(../blocks/main-task/main-task.css);
+@import url(../blocks/rating/rating.css);
+@import url(../blocks/our-rating/our-rating.css);
+@import url(../blocks/inOur-rating/inOur-rating.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/footer/footer.css);

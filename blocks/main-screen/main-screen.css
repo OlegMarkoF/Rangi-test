@@ -1,0 +1,45 @@
+.main-screen {
+  margin: 0;
+  width: 100%;
+}
+
+.title {
+  margin: 0;
+  margin-top: 116px;
+  max-width: 1220px;
+  font-size: 96px;
+  font-weight: 900;
+  line-height: 103px;
+  letter-spacing: 0em;
+  color: rgba(42, 56, 72, 1);
+}
+
+.explanation {
+  margin: 0;
+  margin-top: 17px;
+  font-family: Segoe UI;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 0em;
+  color: rgba(104, 113, 134, 1);
+  max-width: 571px;
+  height: 64px;
+}
+
+.choice {
+  margin: 0;
+  margin-top: 47px;
+  padding: 14px 20px;
+  background: rgba(255, 214, 0, 1);
+  border-radius: 100px;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 26px;
+  letter-spacing: 0em;
+  color: rgba(51, 56, 69, 1);
+  cursor: pointer;
+  border: none;
+  outline: none;
+}

@@ -1,0 +1,88 @@
+.our-rating {
+  margin-top: 70px;
+  width: 100%;
+}
+
+.our-rating h2 {
+  width: 100%;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 46px;
+  letter-spacing: 0em;
+  color: rgba(51, 56, 69, 1);
+}
+
+.our-rating p {
+  margin-top: 18px;
+  width: 100%;
+  max-width: 535px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0em;
+  color: rgba(51, 56, 69, 1);
+}
+
+.rating-box {
+  margin: 0;
+  margin-top: 66px;
+  padding: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 49px 47px;
+  list-style: none;
+}
+
+.rating_list-item {
+  padding: 33px 45px;
+  max-width: 502px;
+  height: 270px;
+  background: rgba(244, 244, 244, 1);
+  border-radius: 20px;
+}
+
+.rating_list-item-title {
+  margin-bottom: 14px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.rating_list-item-title p {
+  margin: 0;
+  padding: 8px 12px;
+  width: 42px;
+  height: 42px;
+  border-radius: 10px;
+  color: rgba(42, 56, 72, 1);
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 26px;
+  letter-spacing: 0em;
+  background: rgba(255, 214, 0, 1);
+  text-align: center;
+}
+
+.rating_list-item-title h2 {
+  margin: 0;
+  margin-left: 22px;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  color: rgba(42, 56, 72, 1);
+}
+
+.rating-text {
+  margin: 0;
+  padding: 0;
+  max-width: 411px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0em;
+}
